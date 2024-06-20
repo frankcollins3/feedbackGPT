@@ -3,7 +3,7 @@
 linkedin API ? {...linkedInData} indeed API ? {...indeedData} // or JSON recipe for human submission
 
 leveraging charting libraries like:
-<ReCharts/> (and,or friends)
+`<ReCharts/>` (and,or friends)
 
 create "Data Visualizations" from the table below (pseudo-table rough-out):
 
