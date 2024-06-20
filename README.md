@@ -36,7 +36,8 @@ if developer went home, created mockup of the assessment using same design appro
 
 same company B actually sat and gave feedback for almost an hour while same manager was juggling through candidates at the same time.
 
-What if everything about company B besides their feedback was real.
+for point of program's sake, Let's pretend company B provided no feedback:
+
 Enough of the circumstances are replicable that one could put all the circumstances and inputs into a prompt:
 
 response.feedback
