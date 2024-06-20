@@ -1,4 +1,5 @@
-# feedbackGPT
+# fib: feed it back
+#### feedbackGPT 
 linkedin API ? {...linkedInData} indeed API ? {...indeedData} // or JSON recipe for human submission
 
 leveraging charting libraries like:
